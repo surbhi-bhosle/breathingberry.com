@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Breathing Berry",
+    "description": "",
+    "home_page_url": "https://breathingberry.com",
+    "feed_url": "https://breathingberry.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Surbhi Bhosle"
+    },
+    "items": [
+    ]
+}
